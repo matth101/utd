@@ -1,2 +1,2 @@
 # utd
-Things I programmed at UTD
+Things I programmed while at UTD
